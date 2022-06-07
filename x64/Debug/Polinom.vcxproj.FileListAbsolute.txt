@@ -1,0 +1,4 @@
+C:\Учеба\Новая папка\Polinom\Polinom\x64\Debug\Polinom.vcxproj.AssemblyReference.cache
+C:\Учеба\Новая папка\Polinom\Polinom\x64\Debug\Polinom.vcxproj.SuggestedBindingRedirects.cache
+C:\Учеба\Новая папка\Polinom\Polinom\x64\Debug\Polinom.MyForm.resources
+C:\Учеба\Новая папка\Polinom\Polinom\x64\Debug\Polinom.vcxproj.GenerateResource.cache
