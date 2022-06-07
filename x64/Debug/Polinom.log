@@ -1,5 +1,5 @@
 ﻿  MyForm.cpp
-C:\Учеба\Новая папка\Polinom\Polinom\Monom.h(97,57): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
-C:\Учеба\Новая папка\Polinom\Polinom\MyForm.cpp(7,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Учеба\Проекты\Polinom\Polinom\Monom.h(97,57): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Учеба\Проекты\Polinom\Polinom\MyForm.cpp(7,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
   MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  Polinom.vcxproj -> C:\Учеба\Новая папка\Polinom\x64\Debug\Polinom.exe
+  Polinom.vcxproj -> C:\Учеба\Проекты\Polinom\x64\Debug\Polinom.exe

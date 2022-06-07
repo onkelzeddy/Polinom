@@ -244,7 +244,7 @@ namespace Polinom {
 			// 
 			this->button7->Location = System::Drawing::Point(32, 46);
 			this->button7->Name = L"button7";
-			this->button7->Size = System::Drawing::Size(100, 33);
+			this->button7->Size = System::Drawing::Size(115, 33);
 			this->button7->TabIndex = 14;
 			this->button7->Text = L"SET MaxSt";
 			this->button7->UseVisualStyleBackColor = true;
